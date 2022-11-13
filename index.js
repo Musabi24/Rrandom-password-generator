@@ -30,6 +30,14 @@ const characters = ["A","B","C","D","E","F","G","H","I","J","K","L","M","N","O"
      inputEl.value = Btn1.textContent
  }
 
+ function showPassword(){
+   if(inputEl.type==="password"){
+      inputEl.type= "text"
+   }else{
+      inputEl.type="password"
+   }
+ }
+
 
   
  
