@@ -1,0 +1,44 @@
+body{
+    max-width: 500px;
+    margin: auto;
+}
+h1{
+    color: #fff;
+    line-height: 0px;
+}
+p{
+    color: antiquewhite;
+    line-height: 0px;
+    padding-bottom: 30px;
+}
+.cards{
+    background: #1F2937;
+    width: 400px;
+    height: 300px;
+    border: 1px solid black;
+    padding-left: 15px;
+}
+button{
+    color: #fff;
+    background-color: #10B981;
+    border: none;
+    padding: 10px;
+    border-radius: 4px;
+}
+input{
+    background-color: #1F2937;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    display: block;
+    padding-top: 20px;
+    color: #2F3E53;
+    margin-top: 10px;
+}
+ .btn{
+    background-color: #273549;
+    margin-top: 15px;
+    margin-left: 10px;
+    width: 150px;
+    height: 30px;
+ }
